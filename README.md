@@ -1,2 +1,0 @@
-# GridCssWebsite
-Created with CodeSandbox
