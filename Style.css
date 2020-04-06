@@ -179,4 +179,7 @@ footer {
       "top-box-a"
       " top-box-b";
   }
+  body {
+  margin: 5px 10px;
+  }
 }
